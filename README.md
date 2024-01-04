@@ -10,3 +10,18 @@ ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-
 - Improved error handling protects against soft-locking.
 - Improved entity and world collision detection.
  - Options now stack, rather than overriding.
+
+# Previews
+
+- Normal Target
+![immage](https://i.imgur.com/3AoMvBW.png)
+
+- Target with Sprite
+![image](https://i.imgur.com/VlJq7iv.png)
+
+- Target on Object
+![image](https://i.imgur.com/N79mazN.png)
+
+- Target on Object Highlighted
+![image](https://i.imgur.com/E4gLQjl.png)
+
