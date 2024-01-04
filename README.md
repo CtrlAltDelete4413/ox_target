@@ -22,6 +22,6 @@ ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-
 - Target on Object
 ![image](https://i.imgur.com/N79mazN.png)
 
-- Target on Object Highlighted
+- Target on Object Selected
 ![image](https://i.imgur.com/E4gLQjl.png)
 
