@@ -68,7 +68,7 @@ p {
   );
   border-radius: 5px;
   font-size: 15pt;
-  line-height: 20pt;
+  line-height: 50pt;
   font-family: 'Nunito';
   vertical-align: middle;
   transition: 300ms;
@@ -76,7 +76,8 @@ p {
   scale: 1;
   height: 25pt;
   width: 200pt;
-  top: 0;
+  margin: 5pt;
+  margin-top: 6;
 }
 
 .option-container:hover {
