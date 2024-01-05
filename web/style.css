@@ -74,7 +74,7 @@ p {
   transition: 300ms;
   transform-origin: left top;
   scale: 1;
-  height: 30pt;
+  height: 25pt;
   width: 200pt;
   top: 0;
 }
